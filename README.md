@@ -1,8 +1,3 @@
-# Chatbot Integration in progress.
+# The phase 2 ( Rag chatbot ) is on a different repo 
 
-1. Backend API init ✅
-2. Auth ✅
-3. DB ✅
-4. QDrant conneciton and content pipeline ✅
-5. OpenAI Agents SDK ( Pending )
-6. Frontend Integration ( Pending )
+https://github.com/Ayaz-Mughal4438/humanoid-robotics-ebook
